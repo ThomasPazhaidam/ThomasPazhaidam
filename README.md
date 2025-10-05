@@ -7,7 +7,7 @@ I'm a passionate software engineer with expertise in Python, Java, and C program
 **Languages:** Python, Java, C
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-pazhaidam/)
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about software development!
 ___
