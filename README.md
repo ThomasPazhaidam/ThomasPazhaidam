@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasPazhaidam&layout=compact&hide=Jupyter%20Notebook&count_private=true&theme=default)](https://github.com/ThomasPazhaidam)
 
-## Tech Stack — Languages & Tools
+## Tech Stack
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -34,7 +34,7 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Cargo](https://img.shields.io/badge/Cargo-000000?style=flat-square&logo=rust&logoColor=white)
 
-## Highlights — Selected Projects
+## Highlights
 - [Inventory-Management-System](https://github.com/ThomasPazhaidam/Inventory-Management-System) — Cloud computing service stack consisting of a Docker Swarm configuration with backend, PostgreSQL, and Redis containers deployed across a cluster.
 - [Shopping-List-Recipe-Curator](https://github.com/ThomasPazhaidam/Shopping-List-Recipe-Curator) — Recipe app for Android and iOS
 
