@@ -36,7 +36,7 @@
 
 ## Highlights — Selected Projects
 - [Inventory-Management-System](https://github.com/ThomasPazhaidam/Inventory-Management-System) — Cloud computing service stack consisting of a Docker Swarm configuration with backend, PostgreSQL, and Redis containers deployed across a cluster.
-- [Shopping-List-Recipe-Curator](https://github.com/ThomasPazhaidam/Shopping-List-Recipe-Curator) — mobile recipe app for Android and iOS
+- [Shopping-List-Recipe-Curator](https://github.com/ThomasPazhaidam/Shopping-List-Recipe-Curator) — Recipe app for Android and iOS
 
 
 ## Domains & Interests
